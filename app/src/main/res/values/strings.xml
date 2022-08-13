@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="Unit_Convert">From</string>
+    <string-array name ="dilameters">
+        <item>Km</item>
+        <item>m</item>
+        <item>Cm</item>
+        <item>mm</item>
+        <item>Kg</item>
+        <item>g</item>
+    </string-array>
+</resources>
